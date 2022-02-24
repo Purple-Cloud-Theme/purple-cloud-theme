@@ -87,7 +87,7 @@
 		"activityBar.dropBorder": "#2f3b54",
 		"activityBar.foreground": "#fcfcfc",
 		"activityBar.inactiveForeground": "#b0b0b0",
-		"activityBar.border": "#171c28",
+		"activityBar.border": "#090b10",
 		"activityBarBadge.background": "#9b0e8f",
 		"activityBarBadge.foreground": "#fcfcfc",
 
@@ -261,7 +261,7 @@
 
 		// Panel colors
 		"panel.background": "#0f111a",
-		"panel.border": "#0f111a",
+		"panel.border": "#090b10",
 		"panel.dropBorder": "#2f3b54",
 		"panelTitle.activeBorder": "#ff009d",
 		"panelTitle.activeForeground": "#d7dce2",
@@ -281,7 +281,7 @@
 		"statusBar.noFolderBackground": "#0f111a",
 		"statusBar.noFolderForeground": "#fcfcfc",
 		"statusBarItem.activeBackground": "#2f3b54",
-		"statusBarItem.hoverBackground": "#fcfcfc",
+		"statusBarItem.hoverBackground": "#9b0e8f48",
 		"statusBarItem.remoteBackground": "#0f111a",
 		"statusBarItem.remoteForeground": "#fcfcfc",
 

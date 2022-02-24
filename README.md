@@ -2,7 +2,7 @@
   <img alt="Purple Cloud Logo" src="./images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Purple CLoud Theme for VS Code
+  Purple Cloud Theme for VS Code
 </h1>
 
 <p align="center">
