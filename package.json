@@ -2,10 +2,18 @@
     "name": "purple-cloud-theme",
     "displayName": "Purple Cloud Theme",
     "description": "Purple based theme for VS Code",
-    "publisher": "DevKeith123",
+    "publisher": "Keith-sys",
+    "icon": "images/logo.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Keith-sys/purple-cloud-theme/"
+    },
+    "bugs": {
+        "url": "https://github.com/Keith-sys/purple-cloud-theme/issues"
     },
     "categories": [
         "Themes"
