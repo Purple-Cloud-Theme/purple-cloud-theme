@@ -1,13 +1,43 @@
-# README
-## This is the README for your extension "purple-cloud-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <img alt="Purple Cloud Logo" src="./images/logo.png" width="100" />
+</p>
+<h1 align="center">
+  Purple CLoud Theme for VS Code
+</h1>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center">
+  <a>
+    <img alt="Version" src="https://img.shields.io/badge/version-v0.0.1-blue" />
+  </a>
+</p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![demo]()
 
-**Enjoy!**
+## Installation via VS Code
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Purple Cloud`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Purple Cloud**
+
+## Manual Installation
+
+Read the [VSC Extension Quickstart Guide](vsc-extension-quickstart.md)
+
+## Icon Theme
+
+The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
+
+```json
+  "material-icon-theme.folders.color": "#C6FF00",
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.hidesExplorerArrows": true,
+```
+## Theming Reference
+
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
+[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+
+[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)

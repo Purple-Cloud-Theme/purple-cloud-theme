@@ -2,24 +2,6 @@
 	"name": "Purple Cloud Theme",
 	"type": "dark",
 	"colors": {
-		/* Color 
-		"selection.background": "#36234f",
-
-		Tabs
-		"editorGroupHeader.tabsBackground": "#0f111a",
-		"editorGroupHeader.tabsBorder": "#0f111a",
-		"tab.border": "#454551",
-		"tab.activeForeground": "#fcfcfc",
-
-		Editor 
-		"editor.background": "#0f111a",
-		"editor.foreground": "#fcfcfc",
-		"editorLineNumber.foreground": "#fcfcfc",
-		"editorLineNumber.activeForeground": "#bb00ff",
-		"activityBarBadge.background": "#6F00FF",
-		"sideBarTitle.foreground": "#9b0e8f",
-		*/
-
 		// Base colors
 		"focusBorder": "#bb00ff",
 		"foreground": "#fcfcfc",
@@ -32,8 +14,8 @@
 		"textBlockQuote.background": "#2f3b54",
 		"textBlockQuote.border": "#2f3b54",
 		"textCodeBlock.background": "#171c28",
-		"textLink.activeForeground": "#6F00FF",
-		"textLink.foreground": "#6F00FF",
+		"textLink.activeForeground": "#5ccfe6",
+		"textLink.foreground": "#be01ff",
 		"textPreformat.foreground": "#d7dce2",
 		"textSeparator.foreground": "#d7dce2",
 
@@ -43,7 +25,7 @@
 		"button.hoverBackground": "#5900cc7c",
 		"button.secondaryForeground": "#fcfcfc",
 		"button.secondaryBackground": "#5d5a62",
-		"button.secondaryHoverBackground": "#9f128f",
+		"button.secondaryHoverBackground": "#0add74z",
 
 		// Dropdown control
 		"dropdown.background": "#2f3b54",
@@ -113,9 +95,9 @@
 		"sideBar.background": "#090b10",
 		"sideBar.foreground": "#fcfcfc",
 		// "sideBar.border": "#1d2433",
-		"sideBarTitle.foreground": "#9b0e8f",
+		"sideBarTitle.foreground": "#ff009d",
 		"sideBarSectionHeader.background": "#1d2433",
-		"sideBarSectionHeader.foreground": "#9b0e8f",
+		"sideBarSectionHeader.foreground": "#fcfcfc",
 		"sideBarSectionHeader.border": "#171c28",
 
 		// Editor Groups
