@@ -4,7 +4,7 @@
     "description": "Purple based theme for VS Code",
     "publisher": "Keith-sys",
     "icon": "images/logo.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },
