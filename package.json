@@ -1,0 +1,28 @@
+{
+    "name": "purple-cloud-theme",
+    "displayName": "Purple Cloud Theme",
+    "description": "Purple based theme for VS Code",
+    "publisher": "DevKeith123",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+     "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Purple Cloud"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Cloud Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Cloud Theme-color-theme.json"
+            }
+        ]
+    }
+}
