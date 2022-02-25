@@ -7,7 +7,7 @@
 
 <p align="center">
   <a>
-    <img alt="Version" src="https://img.shields.io/badge/version-v0.0.2-blue" />
+    <img alt="Version" src="https://img.shields.io/badge/version-v0.0.3-blue" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Read the [VSC Extension Quickstart Guide](vsc-extension-quickstart.md)
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
 
 ```json
-  "material-icon-theme.folders.color": "#C6FF00",
+  "material-icon-theme.folders.color": "#ff009d",
   "material-icon-theme.folders.theme": "specific",
   "material-icon-theme.hidesExplorerArrows": true,
 ```
