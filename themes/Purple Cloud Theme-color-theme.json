@@ -117,7 +117,7 @@
 		"tab.border": "#000000dd",
 		"tab.activeBorder": "#00000000",
 		"tab.unfocusedActiveBorder": "#00000000",
-		"tab.activeBorderTop": "#00000000",
+		"tab.activeBorderTop": "#881798",
 		"tab.unfocusedActiveBorderTop": "#00000000",
 		"tab.inactiveBackground": "#151921",
 		"tab.inactiveForeground": "#f4f6f8c4",
@@ -566,7 +566,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff5353"
 			}
 		},
 		{
