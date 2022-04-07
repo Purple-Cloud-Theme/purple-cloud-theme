@@ -1,37 +1,48 @@
 {
-    "name": "purple-cloud-theme",
-    "displayName": "Purple Cloud Theme",
-    "description": "Purple based theme for VS Code",
-    "publisher": "Keith-sys",
-    "icon": "images/logo.png",
-    "version": "0.0.5",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Keith-sys/purple-cloud-theme/"
-    },
-    "bugs": {
-        "url": "https://github.com/Keith-sys/purple-cloud-theme/issues"
-    },
-    "categories": [
-        "Themes"
-    ],
-     "keywords": [
-        "Purple",
-        "Themes",
-        "Dark Theme",
-        "color-theme",
-        "Purple Cloud"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Purple Cloud Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Purple Cloud Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "purple-cloud-theme",
+  "displayName": "Purple Cloud Theme",
+  "description": "Purple based theme for VS Code",
+  "publisher": "Keith-sys",
+  "license": "MIT License",
+  "icon": "images/logo.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Keith-sys/purple-cloud-theme/"
+  },
+  "bugs": {
+    "url": "https://github.com/Keith-sys/purple-cloud-theme/issues"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "Purple",
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Purple Cloud"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Cloud Theme Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple-Cloud-Theme-Default.json"
+      },
+      {
+        "label": "Purple Cloud Dark Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple-Cloud-Dark-Abyss.json"
+      }
+    ]
+  }
 }

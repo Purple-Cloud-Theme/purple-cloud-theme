@@ -1,13 +1,11 @@
-<p align="center">
-  <img alt="Purple Cloud Logo" src="./images/logo.png" width="100" />
-</p>
+
 <h1 align="center">
   Purple Cloud Theme for VS Code
 </h1>
 
 <p align="center">
   <a>
-    <img alt="Version" src="https://img.shields.io/badge/version-v0.0.5-blue" />
+    <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue" />
   </a>
 </p>
 
